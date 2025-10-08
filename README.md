@@ -1,6 +1,8 @@
 Adding the screenshots for the warm up to the camera control exercises with OpenCV:
 
-* The bar at the top in the screenshots with the dominant color region shows the dominant color detected in that particular region *
+- The bar at the top in the screenshots with the dominant color region shows the dominant color detected in that particular region
+
+- Also showing how some different background lighting affects the detection.
 
 <img width="1317" height="852" alt="Screenshot 2025-10-07 at 9 13 46 PM" src="https://github.com/user-attachments/assets/83e2fd61-e4e2-4307-90fe-bb6ca844b79f" />
 <img width="1317" height="852" alt="Screenshot 2025-10-07 at 9 11 44 PM" src="https://github.com/user-attachments/assets/bbe0de83-fa91-41dd-a939-0b68b027dcf1" />
