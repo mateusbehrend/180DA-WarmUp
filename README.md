@@ -12,3 +12,9 @@ Adding the screenshots for the warm up to the camera control exercises with Open
 LAB 2:
 <img width="1475" height="306" alt="Screenshot 2025-10-08 at 5 52 54 PM" src="https://github.com/user-attachments/assets/433cd02f-15af-4ffc-a309-bc9b6d85398f" />
 <img width="401" height="52" alt="Screenshot 2025-10-08 at 5 53 02 PM" src="https://github.com/user-attachments/assets/e8b84bb5-2fd1-4f4e-bb16-d812d67ad48f" />
+
+
+LAB 3:
+<img width="133" height="17" alt="image" src="https://github.com/user-attachments/assets/9583a2e6-2dbe-49f5-af7f-093221cba5a8" />
+
+<img width="171" height="54" alt="Screenshot 2025-10-15 at 5 24 56 PM" src="https://github.com/user-attachments/assets/0fcb2f13-6fac-4a83-baf3-96e1e2020903" />
