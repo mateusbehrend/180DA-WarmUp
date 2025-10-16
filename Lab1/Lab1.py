@@ -41,8 +41,8 @@ def identify_ball_coordinates():
     cv2.destroyAllWindows()
 
 
-# Task 4
-def identify_water_bottle():
+# Task 3
+def identify_post_it():
     cap = cv2.VideoCapture(0)
     if not cap.isOpened():
         print("Error: Could not open video.")
