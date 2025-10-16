@@ -18,7 +18,12 @@ LAB 3:
 
 <img width="133" height="17" alt="image" src="https://github.com/user-attachments/assets/9583a2e6-2dbe-49f5-af7f-093221cba5a8" />
 
+
+
 <img width="171" height="54" alt="Screenshot 2025-10-15 at 5 24 56 PM" src="https://github.com/user-attachments/assets/0fcb2f13-6fac-4a83-baf3-96e1e2020903" />
+
+
+
 
 <img width="564" height="223" alt="image" src="https://github.com/user-attachments/assets/861756d2-9334-48cc-bf4e-2297d50b4346" />
 
