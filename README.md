@@ -26,3 +26,4 @@ LAB 3:
 
 <img width="564" height="223" alt="image" src="https://github.com/user-attachments/assets/861756d2-9334-48cc-bf4e-2297d50b4346" />
 
+# UCLA180-SmartMirror
